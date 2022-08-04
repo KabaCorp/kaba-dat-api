@@ -1,5 +1,5 @@
 {
-  "name": "kaba-dat-api2",
+  "name": "kaba-dat-api",
   "version": "1.2.1",
   "description": "Kaba's DatArchive implementation for Dat 2.0",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kabacorp/kaba-dat-api2.git"
+    "url": "git+https://github.com/kabacorp/kaba-dat-api.git"
   },
   "keywords": [
     "dat",
@@ -16,12 +16,11 @@
     "p2p",
     "files"
   ],
-  "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kabacorp/kaba-dat-api2/issues"
+    "url": "https://github.com/kabacorp/kaba-dat-api/issues"
   },
-  "homepage": "https://github.com/kabacorp/kaba-dat-api2#readme",
+  "homepage": "https://github.com/kabacorp/kaba-dat-api#readme",
   "dependencies": {
     "anymatch": "^1.3.2",
     "kaba-error-constants": "^1.5.0",
